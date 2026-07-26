@@ -1,6 +1,7 @@
 import { createNote } from "../../actions/notes"
 
 const NewNote = () => {
+  
   return (
     <div>
       <h2>Create a new note</h2>
