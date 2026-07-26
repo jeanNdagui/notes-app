@@ -5,29 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1784992092462,
-      "tag": "0000_foamy_epoch",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1784999623876,
-      "tag": "0001_marvelous_ronan",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1785000326062,
-      "tag": "0002_boring_the_santerians",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "7",
-      "when": 1785068710190,
-      "tag": "0003_lean_psynapse",
+      "when": 1785069413166,
+      "tag": "0000_tired_bloodscream",
       "breakpoints": true
     }
   ]
